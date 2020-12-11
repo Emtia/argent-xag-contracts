@@ -1,4 +1,4 @@
-[![](https://raw.githubusercontent.com/Emtia/argent-xag-contracts/main/assets/xag-300.png)](https://emtia.network "Emtia | Crypto Commodity Network")
+[![](https://raw.githubusercontent.com/Emtia/argent-xag-contracts/master/assets/xag-300.png)](https://emtia.network "Emtia | Crypto Commodity Network")
 
 # ARGENT (XAG)
 Argent (XAG), değeri  1 troy ounce (t oz)  Gümüş'e endekslenmiş, Ethereum tabanlı, ERC20 Standartlarında bir Token Kontratıdır. Temel yapısı ve transfer protokolü, Ethereum blokzinciri içerisindeki Akıllı Kontrat (Smart Contract) protokolüne göre oluşturulmuştur. Ve Ethereum tabanlı cüzdanlarda saklanır.
